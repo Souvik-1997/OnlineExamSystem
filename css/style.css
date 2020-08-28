@@ -1,7 +1,7 @@
 html,body {
 	width: auto;
 	min-height: 500px;
-	background-color: rgb(19, 22, 22);
+	/* background-image:; */
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -153,7 +153,7 @@ html,body {
   background-color: #fff;
 	color: #000;
 }
-.footer
+/* .footer
 {
 	clear: both;
     width: auto;
@@ -161,7 +161,7 @@ html,body {
 	position: relative;
 
 }
-.footer .widget-footer
+.widget-footer
 {
 	width: 100%;
 	min-height: 240px;
@@ -169,30 +169,31 @@ html,body {
 	margin: 25px;
 
 }
-.footer .widgets
+.wids
 {
 
     width: 90%;
 	min-height: 220px;
    padding: 2.5%;
-}
+} */
 
-.footer .widgets h4
+.underline
 {
 
 	color: white;
 	border-bottom: 1px solid white;
-	font-size: 20px;
+    font-size: 20px;
+    padding: 5px;
 }
 
-.footer .widgets p
+ /* .wids p
 {
 	color: rgb(199, 199, 241);
 	font-size: small;
 	margin: 8px  0px;
 }
 
-.footer .widgets strong
+.wids strong
 {
 	color: white;
 
@@ -200,7 +201,7 @@ html,body {
 
 
 
-.footer .subscribe_text
+ .subscribe_text
 {
 	width: 100%;
 	border:1px solid rgba(0,0,0,0.23);
@@ -208,7 +209,7 @@ html,body {
 	height: 25px;
 }
 
-.footer .subscribe-btn
+.subscribe-btn
 {
 	border:1px solid  #d8ffe2;
 	background-image: linear-gradient(red,white);
@@ -231,8 +232,7 @@ html,body {
 	height: auto;
    padding: 2.5%;
    float: left;
-}
-.footer .widgets .facebook img
+.footer .wids .facebook img
 {
 	margin: 5px;
-}
+} */
