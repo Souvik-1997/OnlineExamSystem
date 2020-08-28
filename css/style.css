@@ -236,3 +236,24 @@ html,body {
 {
 	margin: 5px;
 } */
+
+.facebook img
+{
+	 width: 20%;
+	height: auto;
+   padding: 2.5%;
+   float: left;
+}
+.widgets .facebook img
+{
+	margin: 5px;
+}
+ .widgets
+{
+    width: 80%;
+    margin-left: 25px;
+    margin-top: 30px;
+	min-height: 220px;
+   padding: 2.5%;
+   float: center;
+}
