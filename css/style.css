@@ -159,22 +159,22 @@ html,body {
     width: auto;
 	min-height: 320px;
 	position: relative;
-	background: darkslategrey;
+
 }
 .footer .widget-footer
 {
 	width: 100%;
 	min-height: 240px;
 	margin: 0px auto;
-	margin-left: 155px
+	margin: 25px;
 
 }
 .footer .widgets
 {
-    width: 20%;
+
+    width: 90%;
 	min-height: 220px;
    padding: 2.5%;
-   float: left;
 }
 
 .footer .widgets h4
@@ -187,7 +187,7 @@ html,body {
 
 .footer .widgets p
 {
-	color: rgb(142,142,190);
+	color: rgb(199, 199, 241);
 	font-size: small;
 	margin: 8px  0px;
 }
